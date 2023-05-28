@@ -1,4 +1,4 @@
-# Screenshots of output
+# Screenshots of output : content condition is slice(0, 160)
 
 # See Less
 ![seemore](https://github.com/bramhendrareact/seemore_seeless/assets/134800720/0b047534-4960-4c5d-b53b-9dfd80b7d735)

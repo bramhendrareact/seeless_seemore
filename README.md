@@ -1,3 +1,11 @@
+# Screenshots of output
+
+# See Less
+![seemore](https://github.com/bramhendrareact/seemore_seeless/assets/134800720/0b047534-4960-4c5d-b53b-9dfd80b7d735)
+
+# See More
+![seeless](https://github.com/bramhendrareact/seemore_seeless/assets/134800720/fa968770-2dc5-4938-ab41-7b094c7fbf3d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
